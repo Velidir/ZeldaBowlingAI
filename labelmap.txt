@@ -1,0 +1,19 @@
+item {
+  id: 1
+  name: 'link'
+}
+
+item {
+  id: 2
+  name: 'dude'
+}
+
+item {
+  id: 3
+  name: 'totem'
+}
+
+item {
+  id: 4
+  name: 'snowball'
+}
